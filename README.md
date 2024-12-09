@@ -23,7 +23,7 @@ With the increasing number of vehicles in urban areas, parking has become a majo
   - Developed the prototype app using Streamlit.
   - Integrated the smart parking data into the app for real-time updates.
 - **Screenshot of App Development Task**:
-  Pavan Kumar Task [alt text](<App Development.png>)
+  ![Pavan Kumar Task](![alt text](<App Development.png>))
 
 ### Kavya
 - **Role**: Project Manager
@@ -31,14 +31,14 @@ With the increasing number of vehicles in urban areas, parking has become a majo
   - Managed the project timeline and task assignments.
   - Prepared the Gantt chart and ensured all tasks were on track.
 - **Screenshot of Project Task**:
-  Kavya Task [alt text](<Project Manager.png>)
+  ![Kavya Task](![alt text](<Project Manager.png>))
 
 ## Gantt Chart
-[alt text](<gantt cahrt.png>)
+[![alt text](<gantt cahrt.png>)]
 
 
 ## GitHub Repository Link
-https://github.com/joe9431/smart-parking-system/tree/main
+https://github.com/joe9431/smart-parking-system
 
 ## Project Structure
 - **Dataset**: Contains raw parking sensor data (e.g., CSV, JSON, GeoJSON).
