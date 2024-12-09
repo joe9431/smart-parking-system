@@ -15,7 +15,7 @@ With the increasing number of vehicles in urban areas, parking has become a majo
   - Built and tuned machine learning models for parking prediction.
   - Developed and maintained the Jupyter notebook for data analysis and experimentation.
 - **Screenshot of Data Science Task**:
-  Sai Gowtham Task(![alt text](<Data Science.png>))
+  ![Sai Gowtham Task](![alt text](<Data Science.png>))
 
 ### Pavan Kumar
 - **Role**: App Development Lead
