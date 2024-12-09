@@ -4,8 +4,8 @@ import pandas as pd
 # Load the dataset
 st.title("Smart Parking System")
 file_path = r"C:\Users\billj\Downloads\smart-parking-system\Dataset\parking_sensor_data.csv"
-data = pd.read_csv(data = pd.read_csv(file_path)
-)
+data = pd.read_csv(file_path)
+
 
 # Display basic information
 st.write("### Parking Sensor Data")
