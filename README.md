@@ -48,4 +48,11 @@ https://github.com/joe9431/smart-parking-system
 - **Requirements**: Contains the Python dependencies for the project.
 
 ## Setup
-1. Clone the repository
+1. Clone the repository:
+git clone https://github.com/joe9431/smart-parking-system
+
+2. Install the dependencies:
+pip install -r requirements.txt
+
+3. Run the prototype app:
+streamlit run Prototype_App/app.py
